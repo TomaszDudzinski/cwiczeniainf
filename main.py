@@ -1,0 +1,8 @@
+a=int(input("podaj pierwsza liczba\t"))
+b=int(input("podaj druga liczba\t"))
+print(a+b)
+print(a*b)
+print(a**b)
+print(a-b)
+print(b-a)
+print(b**a)
